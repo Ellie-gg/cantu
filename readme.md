@@ -32,5 +32,5 @@ O Gitflow no projeto tem:
 ## Tecnologias
 
 - Linguagens de desenvolvimento utilizadas
-- Plataforma (Kubernetes, Openshift
+- Plataforma (Kubernetes, Openshift) a depender da definição.
 
